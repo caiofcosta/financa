@@ -103,9 +103,9 @@ docker-compose exec app php artisan db:seed
 
 ## 📸 Screenshots
 
-![Dashboard](link-para-screenshot-dashboard)
-![Categorias](link-para-screenshot-categorias)
-![Lançamentos](link-para-screenshot-lancamentos)
+![Dashboard](https://github.com/caiofcosta/financa/blob/master/public/img/dashboard.png)
+![Categorias](https://github.com/caiofcosta/financa/blob/master/public/img/dashboard.png)
+![Lançamentos](https://github.com/caiofcosta/financa/blob/master/public/img/lancamentos.png)
 
 ## 👨‍💻 Autor
 
